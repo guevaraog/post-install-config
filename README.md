@@ -105,6 +105,8 @@ iii. Sev-C (8 hours, business hours)
 <p>
 a. Admin Panel -> Manage -> Help Topics
 <br />
+(Examples of help topics)
+<br />
 i. Business Critical Outage
 <br /> 
 ii. Personal Computer Issues
