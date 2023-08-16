@@ -57,7 +57,7 @@ ii. Level II Support
 </p>
 <br />
 
-<h2>Allow anyone to create ticketss</h2>
+<h2>Allow anyone to create tickets</h2>
 <p>
 a. Admin Panel -> Settings -> User Settings
 <br />
@@ -89,4 +89,28 @@ ii. Ken
 </p>
 <br />
 
+<h2>Configure SLA</h2>
+<p>
+Admin Panel -> Manage -> SLA
+<br />
+i. Sev-A (1 hour, 24/7)
+<br />
+ii. Sev-B (4 hours, 24/7)
+<br />
+iii. Sev-C (8 hours, business hours)
+</p>
+<br />
 
+<h2>Configure Help Topics</h2>
+<p>
+a. Admin Panel -> Manage -> Help Topics
+<br />
+i. Business Critical Outage
+<br /> 
+ii. Personal Computer Issues
+<br />
+iii. Equipment Request
+<br />
+iv. Password Reset
+</p>
+<br />
