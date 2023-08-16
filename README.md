@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/7pBu8IQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7pBu8IQ.png" height="60%" width="60%" alt="osTicket Interface"/>
 </p>
 <p>
 This is what the interface will look like. 
@@ -105,6 +105,7 @@ ii. Ken
 <br />
 
 <h2>Configure SLA</h2>
+<img src= "https://i.imgur.com/Cz0YJLk.png" height="50%" width="50%" alt="Configure SLA"/>
 <p>
 Admin Panel -> Manage -> SLA
 <br />
@@ -117,6 +118,7 @@ iii. Sev-C (8 hours, business hours)
 <br />
 
 <h2>Configure Help Topics</h2>
+<img src= "https://i.imgur.com/weaguRT.png" height="50%" width="50%" alt="Configure Help Topics"/>
 <p>
 a. Admin Panel -> Manage -> Help Topics
 <br />
