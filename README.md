@@ -39,6 +39,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 This is what the interface will look like. 
+<br />
+There will be an admin panel and an agent panel, below are the instructions to which panel you will need in each section. 
+<br />
+Each section will have a description to which areas of the main interface you will navigate to and edit in order to configure the desired portion.
 </p>
 <br />
 
