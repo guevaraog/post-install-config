@@ -80,7 +80,7 @@ b. Registration Required: Require registration and login to create tickets
 </p>
 <br />
 
-<h2>Configure Agents(workers)</h2>
+<h2>Configure Agents (workers)</h2>
 <p>
 Admin Panel -> Agents -> Add New
 <br />
